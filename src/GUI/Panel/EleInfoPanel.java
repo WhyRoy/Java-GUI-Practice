@@ -9,7 +9,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 public class EleInfoPanel extends JPanel {
-    //Ö÷½çÃæÌø×ª
+    //ä¸»ç•Œé¢è·³è½¬
     public static JPanel settingpanelshowall;
     public static JPanel settingpanelshowbyid;
     public static JPanel settingpaneladdone;
@@ -18,14 +18,14 @@ public class EleInfoPanel extends JPanel {
 
     public static JPanel settingPanelMain;
 
-    //×Ó²Ëµ¥°´Å¥Ñ¡Ïî
+    //å­èœå•æŒ‰é’®é€‰é¡¹
     public static JPanel panelshowall;
     public static JPanel panelshowbyid;
     public static JPanel paneladdone;
     public static JPanel paneldeleteone;
     public static JPanel panelupdateone;
 
-    //×Ó²Ëµ¥±êÇ©
+    //å­èœå•æ ‡ç­¾
     public static JLabel labelshowall;
     public static JLabel labelshowbyid;
     public static JLabel labeladdone;
@@ -33,7 +33,7 @@ public class EleInfoPanel extends JPanel {
     public static JLabel labelupdateone;
 
     /**
-     * ¹¹Ôì
+     * æ„é€ 
      */
     public EleInfoPanel() {
         initialize();
@@ -43,7 +43,7 @@ public class EleInfoPanel extends JPanel {
 
 
     /**
-     * ³õÊ¼»¯
+     * åˆå§‹åŒ–
      */
     private void initialize() {
         this.setBackground(Color.white);
@@ -65,9 +65,9 @@ public class EleInfoPanel extends JPanel {
         panelUp.setBackground(Color.white);
         panelUp.setLayout(new FlowLayout(FlowLayout.LEFT, 25, 5));
 
-        JLabel labeltitle = new JLabel("µçÌİĞÅÏ¢²Ù×÷");
+        JLabel labeltitle = new JLabel("ç”µæ¢¯ä¿¡æ¯æ“ä½œ");
 
-        Font font = new Font("Î¢ÈíÑÅºÚ", 0, 27);
+        Font font = new Font("å¾®è½¯é›…é»‘", 0, 27);
         labeltitle.setFont(font);
         labeltitle.setForeground(new Color(37, 174, 96));
         panelUp.add(labeltitle);
@@ -76,19 +76,19 @@ public class EleInfoPanel extends JPanel {
     }
 
     private JPanel getCenterPanel() {
-        //Ãæ°å
+        //é¢æ¿
         JPanel panelCenter = new JPanel();
         panelCenter.setBackground(Color.white);
         panelCenter.setLayout(new BorderLayout());
 
-        //¶ş¼¶²Ëµ¥panel
+        //äºŒçº§èœå•panel
         JPanel panellist = new JPanel();
         Dimension SIZE = new Dimension(200, 636);
         panellist.setPreferredSize(SIZE);
         panellist.setBackground(new Color(62, 62, 62));
         panellist.setLayout(new FlowLayout(FlowLayout.LEFT, 0, 0));
 
-        //new×ÓÑ¡Ïî
+        //newå­é€‰é¡¹
         paneladdone = new JPanel();
         paneladdone.setBackground(new Color(37, 174, 96));
         paneladdone.setLayout(new FlowLayout(FlowLayout.LEFT, 30, 13));
@@ -120,41 +120,41 @@ public class EleInfoPanel extends JPanel {
         panelupdateone.setPreferredSize(SIZE);
 
 
-        //LabelÌí¼Ó±êÇ©
-        labelshowall = new JLabel("ÏÔÊ¾ËùÓĞĞÅÏ¢");
-        labelshowbyid = new JLabel("²éÑ¯µçÌİ");
-        labeladdone = new JLabel("Ìí¼ÓµçÌİ");
-        labeldeleteone = new JLabel("É¾³ıµçÌİ");
-        labelupdateone = new JLabel("¸üĞÂµçÌİĞÅÏ¢");
-        //ÉèÖÃ×ÖÌå
-        Font font = new Font("Î¢ÈíÑÅºÚ", 0, 15);
+        //Labelæ·»åŠ æ ‡ç­¾
+        labelshowall = new JLabel("æ˜¾ç¤ºæ‰€æœ‰ä¿¡æ¯");
+        labelshowbyid = new JLabel("æŸ¥è¯¢ç”µæ¢¯");
+        labeladdone = new JLabel("æ·»åŠ ç”µæ¢¯");
+        labeldeleteone = new JLabel("åˆ é™¤ç”µæ¢¯");
+        labelupdateone = new JLabel("æ›´æ–°ç”µæ¢¯ä¿¡æ¯");
+        //è®¾ç½®å­—ä½“
+        Font font = new Font("å¾®è½¯é›…é»‘", 0, 15);
         labelshowall.setFont(font);
         labelshowbyid.setFont(font);
         labeladdone.setFont(font);
         labeldeleteone.setFont(font);
         labelupdateone.setFont(font);
-        //ÉèÖÃ±³¾°Í¸Ã÷
+        //è®¾ç½®èƒŒæ™¯é€æ˜
         labelshowall.setForeground(Color.white);
         labelshowbyid.setForeground(Color.white);
         labeladdone.setForeground(Color.white);
         labeldeleteone.setForeground(Color.white);
         labelupdateone.setForeground(Color.white);
 
-        //±êÇ©ÏÔÊ¾ÎÄ×Ö
+        //æ ‡ç­¾æ˜¾ç¤ºæ–‡å­—
         panelshowall.add(labelshowall);
         panelshowbyid.add(labelshowbyid);
         paneladdone.add(labeladdone);
         paneldeleteone.add(labeldeleteone);
         panelupdateone.add(labelupdateone);
 
-        //Ìí¼Ó²Ëµ¥
+        //æ·»åŠ èœå•
         panellist.add(panelshowall);
         panellist.add(panelshowbyid);
         panellist.add(paneladdone);
         panellist.add(paneldeleteone);
         panellist.add(panelupdateone);
 
-        //ÉèÖÃpanel
+        //è®¾ç½®panel
         settingPanelMain = new JPanel();
         settingPanelMain.setBackground(Color.white);
         settingPanelMain.setLayout(new BorderLayout());
@@ -167,7 +167,7 @@ public class EleInfoPanel extends JPanel {
     }
 
     /**
-     * Ìí¼ÓÊÂ¼ş¼àÌı
+     * æ·»åŠ äº‹ä»¶ç›‘å¬
      */
     private void addListener() {
         panelshowall.addMouseListener(new MouseListener() {

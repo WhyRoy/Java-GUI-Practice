@@ -11,11 +11,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GUI/AppMainWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="1078">
+              <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelAddone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="228" column="24" selection-start-line="228" selection-start-column="24" selection-end-line="228" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelDeleteone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2444">
+              <caret line="139" column="49" lean-forward="true" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,10 +83,13 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GUI/panel/EleInfoPanel.java" />
         <option value="$PROJECT_DIR$/src/GUI/Login.java" />
         <option value="$PROJECT_DIR$/temp/Login.java" />
         <option value="$PROJECT_DIR$/src/tool/PropertyUtil.java" />
@@ -90,8 +126,6 @@
         <option value="$PROJECT_DIR$/src/GUI/Panel/EleRunInfoPanelPackage/SettingPanelRunningTime.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/UserInfoPanelPackage/SettingPanelShowById.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/UserInfoPanel.java" />
-        <option value="$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelAddone.java" />
-        <option value="$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelDeleteone.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/UserInfoPanelPackage/SettingPanelAddone.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/UserInfoPanelPackage/SettingPanelDeleteone.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/UserInfoPanelPackage/SettingPanelUpdateone.java" />
@@ -104,6 +138,9 @@
         <option value="$PROJECT_DIR$/src/GUI/MyIconButton.java" />
         <option value="$PROJECT_DIR$/src/Dao/EleRunInfoDao.java" />
         <option value="$PROJECT_DIR$/src/GUI/Panel/ToolBarPanel.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Panel/a.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelAddone.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelDeleteone.java" />
       </list>
     </option>
   </component>
@@ -113,7 +150,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-419" />
     <option name="y" value="133" />
     <option name="width" value="1936" />
@@ -140,18 +177,44 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Java大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Swing-GUI-Elevator-Manage-System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="EleInfoPanelPackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,16 +224,16 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="620" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545050567364" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/WeSync-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545324766264" />
+    <property name="last_opened_file_path" value="F:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -296,11 +359,12 @@
       <workItem from="1545042277548" duration="7410000" />
       <workItem from="1545052124279" duration="34000" />
       <workItem from="1545148926311" duration="744000" />
+      <workItem from="1545324432846" duration="330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147665000" />
+    <option name="totallyTimeSpent" value="147995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,9 +376,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-419" y="133" width="1936" height="1066" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,7 +387,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" x="49" y="571" width="1876" height="306" id="Run" order="2" sideWeight="0.49946696" weight="0.30653805" />
+      <window_info active="true" anchor="bottom" x="49" y="571" width="1876" height="306" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.305794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3022508" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +396,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290461" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.19078243" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.18113612" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.18025751" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -358,74 +422,16 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/awt/BorderLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="151" column="14" lean-forward="true" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/AbstractButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="2347" selection-start-line="2347" selection-end-line="2347" />
-          <folding>
-            <element signature="e#83485#83486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="2751" column="16" selection-start-line="2751" selection-start-column="16" selection-end-line="2751" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/JTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="3701" column="5" lean-forward="true" selection-start-line="3681" selection-start-column="4" selection-end-line="3701" selection-end-column="5" />
-          <folding>
-            <element signature="e#20518#20519#0" expanded="true" />
-            <element signature="e#20556#20557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/table/DefaultTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="173" column="11" selection-start-line="173" selection-start-column="11" selection-end-line="173" selection-end-column="11" />
-          <folding>
-            <element signature="e#2103#2104#0" expanded="true" />
-            <element signature="e#2129#2130#0" expanded="true" />
-            <element signature="e#5569#5570#0" expanded="true" />
-            <element signature="e#5617#5618#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/AbstractButton.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/JComponent.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/JTable.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/javax/swing/table/DefaultTableModel.java" />
     <entry file="file://$PROJECT_DIR$/src/resources/icon/userinfoEnable.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelShowByRange.java" />
-    <entry file="jar://E:/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/System.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10955#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/System.class" />
     <entry file="file://$PROJECT_DIR$/src/System/InputCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -433,20 +439,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/sql/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="142" selection-start-line="142" selection-end-line="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="340" column="21" lean-forward="true" selection-start-line="340" selection-start-column="21" selection-end-line="340" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/sql/Date.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/src/view/EleInfoView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -497,13 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java" />
     <entry file="file://$PROJECT_DIR$/src/System/UserInfoSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -633,17 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelDeleteone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="163" column="37" selection-start-line="163" selection-start-column="37" selection-end-line="163" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5419#5420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GUI/Panel/UserInfoPanelPackage/SettingPanelShowall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="685">
@@ -681,16 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="127" column="4" lean-forward="true" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,22 +753,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelAddone.java">
+    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="220">
+          <caret line="10" column="39" lean-forward="true" selection-end-line="363" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#7861#7862#0" expanded="true" />
-            <element signature="e#7904#7905#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GUI/AppMainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        <state relative-caret-position="1078">
+          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelAddone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="228" column="24" selection-start-line="228" selection-start-column="24" selection-end-line="228" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Panel/EleInfoPanelPackage/SettingPanelDeleteone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2444">
+          <caret line="139" column="49" lean-forward="true" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -860,12 +852,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Mis</last-edited>
+          <last-edited>Java大作业</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
