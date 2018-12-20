@@ -1,3 +1,8 @@
+/**
+ * Project encode = GBK
+ * Project encode = GBK
+ */
+
 package GUI;
 
 import GUI.Panel.*;
