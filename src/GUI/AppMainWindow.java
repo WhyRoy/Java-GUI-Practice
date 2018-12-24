@@ -1,6 +1,6 @@
 /**
- * Project encode = GBK
- * Project encode = GBK
+ * Project File Encoding = GBK
+ * Project File Encoding = GBK
  */
 
 package GUI;
